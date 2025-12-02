@@ -1,0 +1,5 @@
+gradio>=3.40
+huggingface-hub>=0.16.4
+soundfile
+numpy
+python-dotenv
